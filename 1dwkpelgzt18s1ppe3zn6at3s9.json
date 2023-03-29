@@ -1,0 +1,104 @@
+{
+  "_id": "1dwkpelgzt18s1ppe3zn6at3s9",
+  "_source": {
+    "categories": [
+      {
+        "term": "Argentina - Curacao",
+        "scheme": "internal",
+        "label": "Football Match",
+        "keywordId": 4132095
+      },
+      {
+        "term": "match_4132095",
+        "scheme": "internal",
+        "label": "Football Match",
+        "keywordId": 4132095
+      },
+      {
+        "term": "Friendlies",
+        "scheme": "internal",
+        "label": "Football Competition",
+        "keywordId": 114
+      },
+      {
+        "term": "Argentina",
+        "scheme": "internal",
+        "label": "Football Teams",
+        "keywordId": 6706
+      },
+      {
+        "term": "Curacao",
+        "scheme": "internal",
+        "label": "Football Teams",
+        "keywordId": 287981
+      },
+      {
+        "term": "Lionel Messi",
+        "scheme": "internal",
+        "label": "Football People",
+        "keywordId": 30981
+      },
+      {
+        "term": "World",
+        "scheme": "internal",
+        "label": "News type",
+        "keywordId": 1
+      }
+    ],
+    "id": "1dwkpelgzt18s1ppe3zn6at3s9",
+    "imageUrl": "https://images.performgroup.com/di/library/omnisport/82/94/lionel-messi_1rqo82czyeya61a8du63di7myb.png?t=741454887",
+    "title": "Messi hopes the 'craziness never ends' after 100th international goal and wild celebrations",
+    "boostFactor": 0.0,
+    "tags": [
+      "argentina - curacao",
+      "Argentina - Curacao",
+      "match_4132095",
+      "league_114",
+      "Friendlies",
+      "team_6706",
+      "Argentina",
+      "team_287981",
+      "Curacao",
+      "squadmember_30981",
+      "Lionel Messi",
+      "newstype_world",
+      "World"
+    ],
+    "language": "en",
+    "dateUpdated": "2023-03-29T03:33:54Z",
+    "content": "Lionel Messi became the first world champion to net 100 international goals, behind only Cristiano Ronaldo (122) and Ali Daei (109) overall.",
+    "source": "Opta",
+    "summary": "<p>Lionel Messi hopes the &quot;craziness never ends&quot; after scoring his 100th goal and ninth hat-trick for his country amid Argentina&#39;s homecoming World Cup celebrations on Tuesday.</p>\n\n<p>La Albiceleste routed Curacao 7-0 in Santiago del Estero, with Messi&#39;s 20th-minute opener bringing up his 100th international goal, joining only Cristiano Ronaldo (122) and Ali Daei (109) in achieving that feat.</p>\n\n<p>Messi became the first world champion to score 100 international goals, and he showed no signs of stopping there with further first-half strikes for a treble, taking him to 102.</p>\n\n<p>The milestone came as Argentina rounded out their first two games back in their homeland since December&#39;s World Cup triumph with wild celebrations, initially in Buenos Aires for Thursday&#39;s 2-0 win over Panama.</p>\n\n<p>The players emulated their celebrations from Qatar after the Curacao game, hoisting the World Cup trophy again after it came down from the stadium roof and doing a lap of honour to greet the supporters.</p>\n\n<p>Messi was also presented with a plaque by Argentine Football Association president Claudio Tapia to acknowledge his 100th goal.</p>\n\n<p>&quot;What a nice way to close these dates, impressive today all the people in Santiago del Estero,&quot; Messi wrote on Instagram.</p>\n\n<p>&quot;I wish we can continue to share together many moments like these and that this craziness never ends!!!&quot;</p>\n\n\n<p>Messi&#39;s achievement comes after netting 21 goals in his 14 games for Argentina, along with seven assists. That has taken him to 156 goal contributions, which is the most in international football.</p>\n\n<p>Argentina head coach Lionel Scaloni added: &quot;As for Lionel Messi, what I want is for him to be on the pitch and be happy.&quot;</p>\n\n<p>He added: &quot;These days were different to the previous friendlies because the players were allowed to be with their people.</p>\n\n<p>&quot;We felt that they had that desire to go out to contact the outside, although that meant that it was difficult to prepare these two games. But in the end we got them through by playing with intensity.&quot;</p>\n",
+    "titleEn": "Messi hopes the 'craziness never ends' after 100th international goal and wild celebrations"
+  },
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://apigw.fotmob.com/searchapi/search?term=league_114%7Cmatch_4132095%7Cnewstype_world%7Csquadmember_30981%7Cteam_287981%7Cteam_6706&lang=en&ver=3&ex=1dwkpelgzt18s1ppe3zn6at3s9",
+      "type": "application/vnd.fotmob.search+json"
+    },
+    {
+      "rel": "source_thumb",
+      "href": "https://images.fotmob.com/image_resources/news/fotmob.png",
+      "type": "image/png"
+    },
+    {
+      "width": "256",
+      "size": "small",
+      "rel": "alternate_image",
+      "href": "https://images.performgroup.com/di/library/omnisport/82/94/lionel-messi_1rqo82czyeya61a8du63di7myb.png?t=741454887&w=256"
+    },
+    {
+      "width": "640",
+      "size": "medium",
+      "rel": "alternate_image",
+      "href": "https://images.performgroup.com/di/library/omnisport/82/94/lionel-messi_1rqo82czyeya61a8du63di7myb.png?t=741454887&w=640"
+    },
+    {
+      "width": "1280",
+      "size": "large",
+      "rel": "alternate_image",
+      "href": "https://images.performgroup.com/di/library/omnisport/82/94/lionel-messi_1rqo82czyeya61a8du63di7myb.png?t=741454887&w=1280"
+    }
+  ]
+}
