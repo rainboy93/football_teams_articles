@@ -1,0 +1,89 @@
+{
+        "_id": "1a614z04pgc1l3vule6rza7q",
+        "_source": {
+          "categories": [
+            {
+              "term": "Ligue 1",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 53
+            },
+            {
+              "term": "Bundesliga",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 54
+            },
+            {
+              "term": "Serie A",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 55
+            },
+            {
+              "term": "LaLiga",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 87
+            },
+            {
+              "term": "World",
+              "scheme": "internal",
+              "label": "News type",
+              "keywordId": 1
+            }
+          ],
+          "id": "1a614z04pgc1l3vule6rza7q",
+          "imageUrl": "https://images.performgroup.com/di/library/omnisport/94/4d/092b3285d102433eb13d93ffc3cfc55b.jpg?t=-1504396821",
+          "title": "Real Madrid stay second in LaLiga after goalless stalemate with Rayo Vallecano",
+          "boostFactor": 0.0,
+          "tags": [
+            "league_53",
+            "Ligue 1",
+            "league_54",
+            "Bundesliga",
+            "league_55",
+            "Serie A",
+            "league_87",
+            "LaLiga",
+            "newstype_world",
+            "World"
+          ],
+          "language": "en",
+          "dateUpdated": "2023-11-05T22:41:02Z",
+          "content": "Juventus moved two points behind Serie A leaders Inter Milan with a 1-0 win at Fiorentina.",
+          "source": "Opta",
+          "summary": "<p>Real Madrid were unable to reclaim top spot in LaLiga as Carlo Ancelotti’s men drew 0-0 at home with derby rivals Rayo Vallecano.</p><p>The stalemate at the Estadio Santiago Bernabeu leaves second-placed Real two points behind table-toppers Girona, and two ahead of Barcelona in third.</p><p>Athletic Bilbao are fifth after surviving a late Villarreal fightback to win 3-2 at El Madrigal, where Inigo Ruiz de Galarreta, Nico Williams and Inaki Williams had the visitors three goals up inside the opening half an hour.</p><p>Gerard Moreno and Alexander Sorloth scored in quick succession late on but Athletic held on.</p><p>A Pepelu penalty gave Valencia a 1-0 home win over second-bottom Granada, and it was the same scoreline as Alaves beat basement boys Almeria.</p><p>Juventus are two points behind Serie A leaders Inter Milan in second place after Fabio Miretti’s 10th-minute effort proved the difference in a 1-0 win at Fiorentina.</p><p>Roma pulled off a dramatic victory over Lecce at the Stadio Olimpico as two stoppage-time goals saw them come from behind to triumph 2-1.</p><p>Sardar Azmoun drew Jose Mourinho’s men level in the first minute of added time, cancelling out Pontus Almqvist’s goal, before Romelu Lukaku – who had had an early penalty saved by Wladimir Falcone – netted the winner three minutes later.</p><p>Lorenzo Colombo notched a brace as Monza won 3-1 at Hellas Verona, who are now in the relegation zone, with Cagliari moving out with a 2-1 home win over Genoa.</p><p>Nice returned to the top of Ligue 1, a point above second-placed Paris St Germain, with a 2-0 home victory over Rennes that saw both sides reduced to 10 men.</p><p>Jeremie Boga opened the scoring and a Steve Mandanda own goal added to that late on, not long after Youssouf Ndayishimiye had been sent off for the hosts and Warmed Omari then followed suit for Rennes.</p><p>Monaco are a point behind PSG in third after beating Brest 2-0 at the Stade Louis II, Denis Zakaria and Aleksandr Golovin getting the goals before Lilian Brassier was dismissed for the away side in stoppage time.</p><p>Reims are up to fourth after a Junya Ito goal earned them a 1-0 win at Nantes.</p><p>Rock-bottom Lyon secured a 1-1 draw at home against 16th-placed Metz thanks to Skelly Alvero’s late goal, while Le Havre won 2-1 at Toulouse and Strasbourg and second-bottom Clermont drew 0-0.</p><p>In the Bundesliga, third-placed Stuttgart suffered a second successive defeat, losing 2-0 at Heidenheim with Jan Schoppner and Tim Kleindienst on the scoresheet, and Wolfsburg were held 2-2 at home by Werder Bremen.</p>",
+          "titleEn": "Real Madrid stay second in LaLiga after goalless stalemate with Rayo Vallecano"
+        },
+        "links": [
+          {
+            "rel": "related",
+            "href": "https://apigw.fotmob.com/searchapi/search?term=league_53%7Cleague_54%7Cleague_55%7Cleague_87%7Cnewstype_world&lang=en&ver=3&ex=1a614z04pgc1l3vule6rza7q",
+            "type": "application/vnd.fotmob.search+json"
+          },
+          {
+            "rel": "source_thumb",
+            "href": "https://images.fotmob.com/image_resources/news/fotmob.png",
+            "type": "image/png"
+          },
+          {
+            "width": "256",
+            "size": "small",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/94/4d/092b3285d102433eb13d93ffc3cfc55b.jpg?t=-1504396821&w=256"
+          },
+          {
+            "width": "640",
+            "size": "medium",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/94/4d/092b3285d102433eb13d93ffc3cfc55b.jpg?t=-1504396821&w=640"
+          },
+          {
+            "width": "1280",
+            "size": "large",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/94/4d/092b3285d102433eb13d93ffc3cfc55b.jpg?t=-1504396821&w=1280"
+          }
+        ]
+      }
