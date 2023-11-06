@@ -1,0 +1,73 @@
+{
+        "_id": "eiynfrt3jfa41ib9q6lqaoxan",
+        "_source": {
+          "categories": [
+            {
+              "term": "Premier League",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 47
+            },
+            {
+              "term": "Tottenham Hotspur",
+              "scheme": "internal",
+              "label": "Football Teams",
+              "keywordId": 8586
+            },
+            {
+              "term": "World",
+              "scheme": "internal",
+              "label": "News type",
+              "keywordId": 1
+            }
+          ],
+          "id": "eiynfrt3jfa41ib9q6lqaoxan",
+          "imageUrl": "https://images.performgroup.com/di/library/omnisport/56/96/2_73380378.jpg?t=-1505597077",
+          "title": "Ange Postecoglou has ‘great admiration’ for Chelsea rival Mauricio Pochettino",
+          "boostFactor": 0.0,
+          "tags": [
+            "league_47",
+            "Premier League",
+            "team_8586",
+            "Tottenham Hotspur",
+            "newstype_world",
+            "World"
+          ],
+          "language": "en",
+          "dateUpdated": "2023-11-05T22:30:43Z",
+          "content": "While Tottenham remain the last unbeaten Premier League team, Chelsea have struggled under former Spurs boss Pochettino.",
+          "source": "Opta",
+          "summary": "<p>Tottenham head coach Ange Postecoglou has plenty of admiration for Mauricio Pochettino’s appetite to take on a “big challenge” but has suggested he would never allow others to take complete control of recruitment.</p><p>Pochettino’s Chelsea visit Spurs on Monday with the west London club struggling for a second consecutive season despite an outlay of £1billion since Todd Boehly took over with his Clearlake Capital consortium last year.</p><p>While Pochettino has failed to hit the ground running and acknowledged at the end of September he would “need to be more involved now” with regard to the January transfer window, it is a different story for Postecoglou and his summer transfers.</p><p>“I haven’t come across him,” Postecoglou said of the former Spurs manager.</p><p>“From afar, great admiration. I think the impact he had at Southampton and at Spurs is unquestionable.</p><p>“He has taken on some pretty big challenges post-Spurs as well, which I’m all for. I like managers who take on big challenges, so great admiration and respect for his work.”</p><p>Paris St Germain was Pochettino’s destination after his departure from Tottenham, but a plethora of signings under his watch were made by PSG sporting director Leonardo.</p><p>This summer Chelsea spent more than £350million during Pochettino’s first transfer window, although he has been left with a bloated squad of big-money additions which lack experience.</p><p></p><figure></figure><p></p><p>By contrast Tottenham’s Guglielmo Vicario, Micky van de Ven and James Maddison have quickly settled and Postecoglou said recruitment is a big factor for him, especially at the start of his tenure.</p><p>He added: “Wherever I’ve been, I’ve made sure that I have the biggest say over recruitment. I don’t do all the work, but I really think it’s an important part of my function and particularly when I first go into clubs.</p><p>“When you first go into a club, there are two measures that people will always put up against you.</p><p>“One is the results, that tells its own tale, but as a manager, and I’ve certainly had that experience, you can’t always guarantee the results early on.</p><p>“The other thing you get measured on is the people you bring in. Because at least if the results aren’t there, then people will say ‘okay, there’s something building here’.</p><p>“From my perspective, it’s the one area I really want strong control over.”</p><p>Spurs’ new technical director Johan Lange started work at the club on Wednesday and&nbsp;Postecoglou has already spent time with the ex-Aston Villa transfer guru, but a day earlier his focus was elsewhere.</p><p>Postecoglou and his wife Georgia were opening-night guests of Sir Kenneth Branagh on Tuesday at Wyndham’s Theatre to witness Shakespeare’s King Lear, a tale of a king seeking love from his three daughters, which ends in devastation.</p><p>The Aussie enjoyed the play but is eager for a different&nbsp;ending on Monday night.</p><p>“Sir Kenneth is a big Spurs fan and was kind enough to invite my wife and I to the theatre the other night,” Postecoglou revealed.</p><p>“We enjoyed it. I did have to swot up on King Lear. It wasn’t part of the curriculum at Prahran High!</p><p>“You always learn from life and the appreciation of seeing people excel at what they do is inspiring. You walk out of there thinking, ‘I don’t know how they do it’.</p><p>“Sir Kenneth was good after it. I caught up with him briefly, he was very kind with his time.</p><p>“He was all over how it’s going and gave me some little bits of advice, which I’ll ignore like he’ll ignore my advice on acting, mate! It was good. It was much appreciated.</p><p>“There was a fair bit going on in that play, mate! I definitely want a better ending than Sir Kenneth had.”</p>",
+          "titleEn": "Ange Postecoglou has ‘great admiration’ for Chelsea rival Mauricio Pochettino"
+        },
+        "links": [
+          {
+            "rel": "related",
+            "href": "https://apigw.fotmob.com/searchapi/search?term=league_47%7Cnewstype_world%7Cteam_8586&lang=en&ver=3&ex=eiynfrt3jfa41ib9q6lqaoxan",
+            "type": "application/vnd.fotmob.search+json"
+          },
+          {
+            "rel": "source_thumb",
+            "href": "https://images.fotmob.com/image_resources/news/fotmob.png",
+            "type": "image/png"
+          },
+          {
+            "width": "256",
+            "size": "small",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/56/96/2_73380378.jpg?t=-1505597077&w=256"
+          },
+          {
+            "width": "640",
+            "size": "medium",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/56/96/2_73380378.jpg?t=-1505597077&w=640"
+          },
+          {
+            "width": "1280",
+            "size": "large",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/56/96/2_73380378.jpg?t=-1505597077&w=1280"
+          }
+        ]
+      }
