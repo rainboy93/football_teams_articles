@@ -1,0 +1,96 @@
+{
+        "_id": "1j8178t6h3btp11odlisfd4l85",
+        "_source": {
+          "categories": [
+            {
+              "term": "Tottenham Hotspur - Chelsea",
+              "scheme": "internal",
+              "label": "Football Match",
+              "keywordId": 4193569
+            },
+            {
+              "term": "match_4193569",
+              "scheme": "internal",
+              "label": "Football Match",
+              "keywordId": 4193569
+            },
+            {
+              "term": "Premier League",
+              "scheme": "internal",
+              "label": "Football Competition",
+              "keywordId": 47
+            },
+            {
+              "term": "Chelsea",
+              "scheme": "internal",
+              "label": "Football Teams",
+              "keywordId": 8455
+            },
+            {
+              "term": "Tottenham Hotspur",
+              "scheme": "internal",
+              "label": "Football Teams",
+              "keywordId": 8586
+            },
+            {
+              "term": "World",
+              "scheme": "internal",
+              "label": "News type",
+              "keywordId": 1
+            }
+          ],
+          "id": "1j8178t6h3btp11odlisfd4l85",
+          "imageUrl": "https://images.performgroup.com/di/library/omnisport/8a/6b/2_74475407.jpg?t=-1412589333",
+          "title": "Ange Postecoglou says ‘we have to accept the referee’s decision’ after home loss",
+          "boostFactor": 0.0,
+          "tags": [
+            "tottenham hotspur - chelsea",
+            "Tottenham Hotspur - Chelsea",
+            "match_4193569",
+            "league_47",
+            "Premier League",
+            "team_8455",
+            "Chelsea",
+            "team_8586",
+            "Tottenham Hotspur",
+            "newstype_world",
+            "World"
+          ],
+          "language": "en",
+          "dateUpdated": "2023-11-06T23:30:03Z",
+          "content": "The Tottenham boss called for an end to the questioning of officials’ rulings in matches.",
+          "source": "Opta",
+          "summary": "<p>Tottenham manager Ange Postecoglou has called for an end to the questioning of officials’ decisions in order to prevent their authority being undermined.</p><p>Spurs had two players sent off in the 4-1 defeat – their first loss of the Premier League season – at home to Chelsea but refused to criticise referee Michael Oliver.</p><p>However, after a first half which had 12 minutes added on due to several VAR checks, the Australian felt a number of incidents have led to an overuse of technology.</p><p>Arsenal boss Mikel Arteta called Newcastle’s winning goal against his team after three VAR checks a “disgrace” on Saturday and the club issued a statement calling for the standard of officiating to be “urgently addressed”.</p><p>“Decisions are decisions: you either accept it or you don’t,” Postecoglou told Sky Sports.</p><p>“Some of it is self-inflicted (but) if we are going to go out and complain about bad decisions every week what will happen is what happened today: a forensic study of every decision.</p><p>“I think that’s the way the game is going. I don’t like it – I could be a lone voice as I’m told that’s the way forward. With VAR intervention it just felt like a lot of standing around.</p><p>“At some point we have to accept the referee’s decision. This constant erosion of referees’ authority, this is what the game is going to get: they will not have any authority, it is going to get diminished and we are going to be in the control of someone a few miles away watching a TV screen.”</p><p>Spurs had led through Dejan Kulusevski’s sixth-minute deflected goal and had a second from Son Heung-min ruled out for offside by VAR.</p><p>But when Cristian Romero was sent off for a challenge on Enzo Fernandez which allowed Cole Palmer to equaliser from the penalty spot the game changed and a reckless second yellow card for Destiny Udogie early in the second half left the hosts with an uphill battle.</p><p>They held out until the 75th minute when Nicolas Jackson scored the first goal of his hat-trick, adding two more deep into added time.</p><p>“It’s pretty hard to process because it’s almost impossible to analyse the game,” added Postecoglou.</p><p>“You’re left disappointed with the result but proud of the efforts of the players and that is the positive we will take out of it.”</p>",
+          "titleEn": "Ange Postecoglou says ‘we have to accept the referee’s decision’ after home loss"
+        },
+        "links": [
+          {
+            "rel": "related",
+            "href": "https://apigw.fotmob.com/searchapi/search?term=league_47%7Cmatch_4193569%7Cnewstype_world%7Cteam_8455%7Cteam_8586&lang=en&ver=3&ex=1j8178t6h3btp11odlisfd4l85",
+            "type": "application/vnd.fotmob.search+json"
+          },
+          {
+            "rel": "source_thumb",
+            "href": "https://images.fotmob.com/image_resources/news/fotmob.png",
+            "type": "image/png"
+          },
+          {
+            "width": "256",
+            "size": "small",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/8a/6b/2_74475407.jpg?t=-1412589333&w=256"
+          },
+          {
+            "width": "640",
+            "size": "medium",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/8a/6b/2_74475407.jpg?t=-1412589333&w=640"
+          },
+          {
+            "width": "1280",
+            "size": "large",
+            "rel": "alternate_image",
+            "href": "https://images.performgroup.com/di/library/omnisport/8a/6b/2_74475407.jpg?t=-1412589333&w=1280"
+          }
+        ]
+      }
